@@ -96,7 +96,7 @@
 | 2012     | Jo Walton                               | Among Others                                | HN         |                       |                                |
 | 2013     | John Scalzi                             | Redshirts                                   | H          |                       |                                |
 | 2013     | Kim Stanley Robinson                    | 2312                                        | N          |                       |                                |
-| 2014     | Ann Leckie                              | Ancillary Justice                           | HN         |                       |                                |
+| 2014     | Ann Leckie                              | Ancillary Justice                           | HN         | 2021.08.01-2021.08.20 | :star::star::star::star:       |
 | 2015     | Cixin Liu                               | The Three-Body Problem                      | H          |                       |                                |
 | 2015     | Katherine Addison                       | The Goblin Emperor                          | L          | DNF                   |                                |
 | 2015     | Jeff VanderMeer                         | Annihilation                                | N          |                       |                                |

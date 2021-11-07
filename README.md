@@ -55,7 +55,7 @@
 | 1990     | Dan Simmons                             | Hyperion                                    | HL         | 2020.09.01-2020.09.13 | :star::star::star::star::star: |
 | 1990     | Elizabeth Ann Scarborough               | The Healer's War                            | N          |                       |                                |
 | 1991     | Lois McMaster Bujold                    | The Vor Game                                | H          |                       |                                |
-| 1991     | Ursula K. Le Guin                       | Tehanu                                      | LN         | 2021-01.08-           |                                |
+| 1991     | Ursula K. Le Guin                       | Tehanu                                      | LN         | 2021-01.01-2021.01.11 | :star::star::star::star:       |
 | 1992     | Lois McMaster Bujold                    | Barrayar                                    | H          |                       |                                |
 | 1992     | Michael Swanwick                        | Stations of the Tide                        | N          |                       |                                |
 | 1993     | Vernor Vinge                            | A Fire Upon the Deep                        | H          |                       |                                |

@@ -108,3 +108,4 @@
 | 2019     | Mary Robinette Kowal                    | The Calculating Stars                       | HN         |                       |                                |
 | 2020     | Arkady Martine                          | A Memory Called Empire                      | H          |                       |                                |
 | 2020     | Sarah Pinsker                           | A Song for a New Day                        | N          |                       |                                |
+| 2021     | Martha Wells                            | Network Effect                              | N          |                       |

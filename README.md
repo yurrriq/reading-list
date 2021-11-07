@@ -8,7 +8,7 @@
 | 1946     | Isaac Asimov                            | The Mule                                    | H          |                       |                                |
 | 1951     | Robert A. Heinlein                      | Farmer in the Sky                           | H          |                       |                                |
 | 1953     | Alfred Bester                           | The Demolished Man                          | H          | 2018.11.15-2018.11.22 | :star::star::star::star::star: |
-| 1954     | Ray Bradabury                           | Fahrenheit 451                              | H          |                       |                                |
+| 1954     | Ray Bradbury                            | Fahrenheit 451                              | H          |                       |                                |
 | 1955     | Mark Clifton and Frank Riley            | They'd Rather Be Right                      | H          |                       |                                |
 | 1956     | Robert A. Heinlein                      | Double Star                                 | H          |                       |                                |
 | 1958     | Fritz Leiber                            | The Big Time                                | H          |                       |                                |

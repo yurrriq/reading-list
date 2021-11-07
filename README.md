@@ -35,7 +35,7 @@
 | 1976     | Joe Halderman                           | The Forever War                                                              | HLN        |                       |            |
 | 1977     | Kate Wilhelm                            | Where Late the Sweet Birds Sang                                              | HL         |                       |            |
 | 1977     | Frederik Pohl                           | Man Plus                                                                     | N          |                       |            |
-| 1978     | Frederik Pohl                           | Gateway                                                                      | HLN         |                       |            |
+| 1978     | Frederik Pohl                           | Gateway                                                                      | HLN        |                       |            |
 | 1978     | J. R. R. Tolkien                        | The Silmarillion                                                             | L          |                       |            |
 | 1979     | Vonda N. McIntyre                       | Dreamsnake                                                                   | HLN        |                       |            |
 | 1980     | Arthur C. Clarke                        | The Fountains of Paradise                                                    | HN         |                       |            |

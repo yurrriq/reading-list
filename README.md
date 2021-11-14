@@ -30,7 +30,7 @@
 | 1972     | Ursula K. Le Guin                       | The Lathe of Heaven                                                          | L          |                       |            |
 | 1972     | Robert Silverberg                       | A Time of Changes                                                            | N          |                       |            |
 | 1973     | Isaac Asimov                            | The Gods Themselves                                                          | HLN        |                       |            |
-| 1974     | Arthur C. Clarke                        | Rendezvous with Rama                                                         | HLN        |                       |            |
+| 1974     | Arthur C. Clarke                        | Rendezvous with Rama                                                         | HLN        | 2021.11.12-2021.11.14 | ★★★★★      |
 | 1975     | Ursula K. Le Guin                       | The Dispossessed                                                             | HLN        | 2019.03.17-2019.03.26 | ★★★★★      |
 | 1976     | Joe Halderman                           | The Forever War                                                              | HLN        |                       |            |
 | 1977     | Kate Wilhelm                            | Where Late the Sweet Birds Sang                                              | HL         |                       |            |

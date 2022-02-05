@@ -146,7 +146,7 @@
 | 2014     | James S. A. Corey                       | Abaddon's Gate                                                               | L          |                       |            |
 | 2015     | Cixin Liu                               | The Three-Body Problem                                                       | H          |                       |            |
 | 2015     | Katherine Addison                       | The Goblin Emperor                                                           | L          | 2020.12.12-DNF        |            |
-| 2015     | Ann Leckie                              | Ancillary Sword                                                              | L          |                       |            |
+| 2015     | Ann Leckie                              | Ancillary Sword                                                              | L          | 2021.12.28-2022.01.03 | ★★★★       |
 | 2015     | Jeff VanderMeer                         | Annihilation                                                                 | N          |                       |            |
 | 2016     | N.K. Jemisin                            | The Fifth Season                                                             | H          |                       |            |
 | 2016     | Naomi Novik                             | Uprooted                                                                     | L          |                       |            |

@@ -27,7 +27,7 @@
 | 1970     | Ursula K. Le Guin                       | The Left Hand of Darkness                                                    | HN         | 2018.12.03-2019.01.12 | ★★★★★      |
 | 1971     | Larry Liven                             | Ringworld                                                                    | HLN        | 2021.01.02-2021.01.05 | ★★★★       |
 | 1972     | Philip José Farmer                      | To Your Scattered Bodies Go                                                  | H          |                       |            |
-| 1972     | Ursula K. Le Guin                       | The Lathe of Heaven                                                          | L          |                       |            |
+| 1972     | Ursula K. Le Guin                       | The Lathe of Heaven                                                          | L          | 2022.02.22-2022.03.07 | ★★★★       |
 | 1972     | Robert Silverberg                       | A Time of Changes                                                            | N          |                       |            |
 | 1973     | Isaac Asimov                            | The Gods Themselves                                                          | HLN        |                       |            |
 | 1974     | Arthur C. Clarke                        | Rendezvous with Rama                                                         | HLN        | 2021.11.12-2021.11.14 | ★★★★★      |

@@ -112,7 +112,7 @@
 | 2003     | Kim Stanley Robinson                    | The Years of Rice and Salt                                                   | L          |                       |            |
 | 2004     | Lois McMaster Bujold                    | Paladin of Souls                                                             | HL         |                       |            |
 | 2004     | Dan Simmons                             | Ilium                                                                        | L          |                       |            |
-| 2004     | Elizabeth Moon                          | The Spped of Dark                                                            | N          |                       |            |
+| 2004     | Elizabeth Moon                          | The Speed of Dark                                                            | N          |                       |            |
 | 2005     | Susanna Clarke                          | Jonathan Strange & Mr Norrell                                                | H          | 2020.01.26-2020.03.17 | ★★★★★      |
 | 2005     | China Miéville                          | Iron Council                                                                 | L          |                       |            |
 | 2005     | Neal Stephenson                         | The Baroque Cycle (i.e. Quicksilver; The Confusion; The System of the World) | L          |                       |            |

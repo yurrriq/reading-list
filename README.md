@@ -10,8 +10,8 @@
 | 1953     | Alfred Bester                           | The Demolished Man                                                           | H          | 2018.11.15-2018.11.22 | ★★★★★      |
 | 1954     | Ray Bradbury                            | Fahrenheit 451                                                               | H          | Long ago              |            |
 | 1955     | Mark Clifton and Frank Riley            | They'd Rather Be Right                                                       | H          |                       |            |
-| 1956     | Robert A. Heinlein                      | Double Star                                                                  | H          |                       |            |
-| 1958     | Fritz Leiber                            | The Big Time                                                                 | H          |                       |            |
+| 1956     | Robert A. Heinlein                      | Double Star                                                                  | H          | 2022.04.30-2022.05.05 | ★★★★       |
+| 1958     | Fritz Leiber                            | The Big Time                                                                 | H          | 2022.09.27-2022.10.09 | ★★★        |
 | 1959     | James Blish                             | A Case of Conscience                                                         | H          |                       |            |
 | 1960     | Robert A. Heinlein                      | Starship Troopers                                                            | H          |                       |            |
 | 1961     | Walter M. Miller, Jr.                   | A Canticle for Leibowitz                                                     | H          |                       |            |
@@ -142,7 +142,7 @@
 | 2013     | Charles Stross                          | The Apocalypse Codex                                                         | L          |                       |            |
 | 2013     | Kim Stanley Robinson                    | 2312                                                                         | N          |                       |            |
 | 2014     | Ann Leckie                              | Ancillary Justice                                                            | HN         | 2021.08.01-2021.08.20 | ★★★★       |
-| 2014     | Neil Gaiman                             | The Ocean at the End of the Lane                                             | L          |                       |            |
+| 2014     | Neil Gaiman                             | The Ocean at the End of the Lane                                             | L          | 2022.04.17-2022.04.18 | ★★★★       |
 | 2014     | James S. A. Corey                       | Abaddon's Gate                                                               | L          |                       |            |
 | 2015     | Cixin Liu                               | The Three-Body Problem                                                       | H          |                       |            |
 | 2015     | Katherine Addison                       | The Goblin Emperor                                                           | L          | 2020.12.12-DNF        |            |

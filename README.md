@@ -165,3 +165,6 @@
 | 2020     | Sarah Pinsker                           | A Song for a New Day                                                         | N          |                       |            |
 | 2021     | N.K. Jemisin                            | The City We Became                                                           | L          |                       |            |
 | 2021     | Martha Wells                            | Network Effect                                                               | LN         |                       |            |
+| 2022     | Arkady Martine                          | A Desolation Called Peace                                                    | HL         |                       |            |
+| 2022     | Fonda Lee                               | Jade Legacy                                                                  | L          |                       |            |
+| 2022     | P. Djèlí Clark                          | A Master of Djinn                                                            | N          |                       |            |

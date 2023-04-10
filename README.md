@@ -135,7 +135,7 @@
 | 2010     | Paolo Bacigalupi                        | The Windup Girl                                                              | N          |                       |            |
 | 2011     | Connie Willis                           | Blackout/All Clear                                                           | HLN        |                       |            |
 | 2011     | China Miéville                          | Kraken                                                                       | L          |                       |            |
-| 2012     | Jo Walton                               | Among Others                                                                 | HN         |                       |            |
+| 2012     | Jo Walton                               | Among Others                                                                 | HN         | 2022.12.03-2023.01.07 | ★★★★★      |
 | 2012     | George R. R. Martin                     | A Dance with Dragons                                                         | L          |                       |            |
 | 2012     | China Miéville                          | Embassytown                                                                  | L          |                       |            |
 | 2013     | John Scalzi                             | Redshirts                                                                    | HL         | 2023.03.04-2023.03.24 | ★★★        |

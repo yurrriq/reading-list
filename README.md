@@ -138,7 +138,7 @@
 | 2012     | Jo Walton                               | Among Others                                                                 | HN         |                       |            |
 | 2012     | George R. R. Martin                     | A Dance with Dragons                                                         | L          |                       |            |
 | 2012     | China Miéville                          | Embassytown                                                                  | L          |                       |            |
-| 2013     | John Scalzi                             | Redshirts                                                                    | HL         |                       |            |
+| 2013     | John Scalzi                             | Redshirts                                                                    | HL         | 2023.03.04-2023.03.24 | ★★★        |
 | 2013     | Charles Stross                          | The Apocalypse Codex                                                         | L          |                       |            |
 | 2013     | Kim Stanley Robinson                    | 2312                                                                         | N          |                       |            |
 | 2014     | Ann Leckie                              | Ancillary Justice                                                            | HN         | 2021.08.01-2021.08.20 | ★★★★       |

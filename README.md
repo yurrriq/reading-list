@@ -127,7 +127,7 @@
 | 2008     | Michael Chabon                          | The Yiddish Policemen's Union                                                                | HLN        |                       |            |
 | 2008     | Terry Pratchett                         | Making Money                                                                                 | L          |                       |            |
 | 2009     | Neil Gaiman                             | The Graveyard Book                                                                           | H          |                       |            |
-| 2009     | Ursula K. Le Guin                       | Lavinia                                                                                      | L          |                       |            |
+| 2009     | Ursula K. Le Guin                       | Lavinia                                                                                      | L          | 2023.06.03-2023.06.22 | ★★★        |
 | 2009     | Neal Stephenson                         | Anathem                                                                                      | L          |                       |            |
 | 2009     | Ursula K. Le Guin                       | Powers                                                                                       | N          |                       |            |
 | 2010     | China Miéville                          | The City & the City                                                                          | HL         | 2019.05.16-2019.05.22 | ★★★★★      |

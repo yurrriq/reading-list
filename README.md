@@ -70,7 +70,7 @@
 | 1990     | Orson Scott Card                        | Prentice Alvin                                                               | L          |                       |            |
 | 1990     | Elizabeth Ann Scarborough               | The Healer's War                                                             | N          |                       |            |
 | 1991     | Lois McMaster Bujold                    | The Vor Game                                                                 | H          |                       |            |
-| 1991     | Ursula K. Le Guin                       | Tehanu                                                                       | LN         | 2021-01.01-2021.01.11 | ★★★★       |
+| 1991     | Ursula K. Le Guin                       | Tehanu                                                                       | LN         | 2021.01.01-2021.01.11 | ★★★★       |
 | 1991     | Dan Simmons                             | The Fall of Hyperion                                                         | L          |                       |            |
 | 1992     | Lois McMaster Bujold                    | Barrayar                                                                     | HL         |                       |            |
 | 1992     | Sheri S. Tepper                         | Beauty                                                                       | L          |                       |            |

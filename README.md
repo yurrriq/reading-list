@@ -76,7 +76,7 @@
 | 1992     | Sheri S. Tepper                         | Beauty                                                                       | L          |                       |            |
 | 1992     | Michael Swanwick                        | Stations of the Tide                                                         | N          |                       |            |
 | 1993     | Vernor Vinge                            | A Fire Upon the Deep                                                         | H          |                       |            |
-| 1993     | Connie Willis                           | Doomsday Book                                                                | HLN        |                       |            |
+| 1993     | Connie Willis                           | Doomsday Book                                                                | HLN        | 2023.07.19-2023.08.08 | ★★★★★      |
 | 1993     | Tim Powers                              | Last Call                                                                    | L          |                       |            |
 | 1994     | Kim Stanley Robinson                    | Green Mars                                                                   | HL         |                       |            |
 | 1994     | Peter S. Beagle                         | The Innkeeper's Song                                                         | L          |                       |            |
@@ -110,13 +110,13 @@
 | 2003     | Robert J. Sawyer                        | Hominids                                                                     | H          |                       |            |
 | 2003     | China Miéville                          | The Scar                                                                     | L          | 2021.04.25-2021.05.15 | ★★★★★      |
 | 2003     | Kim Stanley Robinson                    | The Years of Rice and Salt                                                   | L          |                       |            |
-| 2004     | Lois McMaster Bujold                    | Paladin of Souls                                                             | HL         |                       |            |
+| 2004     | Lois McMaster Bujold                    | Paladin of Souls                                                             | HL         | 2023.09.13-2023.12.13 | ★★★★       |
 | 2004     | Dan Simmons                             | Ilium                                                                        | L          |                       |            |
 | 2004     | Elizabeth Moon                          | The Speed of Dark                                                            | N          |                       |            |
 | 2005     | Susanna Clarke                          | Jonathan Strange & Mr Norrell                                                | H          | 2020.01.26-2020.03.17 | ★★★★★      |
 | 2005     | China Miéville                          | Iron Council                                                                 | L          |                       |            |
 | 2005     | Neal Stephenson                         | The Baroque Cycle (i.e. Quicksilver; The Confusion; The System of the World) | L          |                       |            |
-| 2005     | Lois McMaster Bujold                    | Paladin of Souls                                                             | N          |                       |            |
+| 2005     | Lois McMaster Bujold                    | Paladin of Souls                                                             | N          | 2023.09.13-2023.12.13 | ★★★★       |
 | 2006     | Robert Charles Wilson                   | Spin                                                                         | H          |                       |            |
 | 2006     | Neil Gaiman                             | Anansi Boys                                                                  | L          | 2019.01.21-2019.01.28 | ★★★        |
 | 2006     | Charles Stross                          | Accelerando                                                                  | L          |                       |            |
@@ -137,7 +137,7 @@
 | 2011     | China Miéville                          | Kraken                                                                       | L          |                       |            |
 | 2012     | Jo Walton                               | Among Others                                                                 | HN         | 2022.12.03-2023.01.07 | ★★★★★      |
 | 2012     | George R. R. Martin                     | A Dance with Dragons                                                         | L          |                       |            |
-| 2012     | China Miéville                          | Embassytown                                                                  | L          |                       |            |
+| 2012     | China Miéville                          | Embassytown                                                                  | L          | 2023.10.27-2023.12.13 | ★★★★       |
 | 2013     | John Scalzi                             | Redshirts                                                                    | HL         | 2023.03.04-2023.03.24 | ★★★        |
 | 2013     | Charles Stross                          | The Apocalypse Codex                                                         | L          |                       |            |
 | 2013     | Kim Stanley Robinson                    | 2312                                                                         | N          |                       |            |
@@ -159,12 +159,12 @@
 | 2018     | John Scalzi                             | The Collapsing Empire                                                        | L          |                       |            |
 | 2019     | Mary Robinette Kowal                    | The Calculating Stars                                                        | HLN        |                       |            |
 | 2019     | Naomi Novik                             | Spinning Silver                                                              | L          |                       |            |
-| 2020     | Arkady Martine                          | A Memory Called Empire                                                       | H          |                       |            |
+| 2020     | Arkady Martine                          | A Memory Called Empire                                                       | H          | 2023.03.29-2023.04.16 | ★★★★       |
 | 2020     | Seanan McGuire                          | Middlegame                                                                   | L          |                       |            |
 | 2020     | Charlie Jane Anders                     | The City in the Middle of the Night                                          | L          |                       |            |
 | 2020     | Sarah Pinsker                           | A Song for a New Day                                                         | N          |                       |            |
-| 2021     | N.K. Jemisin                            | The City We Became                                                           | L          |                       |            |
+| 2021     | N.K. Jemisin                            | The City We Became                                                           | L          | 2023.06.30-2023.07.18 | ★★★        |
 | 2021     | Martha Wells                            | Network Effect                                                               | LN         |                       |            |
-| 2022     | Arkady Martine                          | A Desolation Called Peace                                                    | HL         |                       |            |
+| 2022     | Arkady Martine                          | A Desolation Called Peace                                                    | HL         | 2023.06.25-2023.07.10 | ★★★★★      |
 | 2022     | Fonda Lee                               | Jade Legacy                                                                  | L          |                       |            |
-| 2022     | P. Djèlí Clark                          | A Master of Djinn                                                            | N          |                       |            |
+| 2022     | P. Djèlí Clark                          | A Master of Djinn                                                            | N          | 2023.08.08-2023.09.02 | ★★         |
